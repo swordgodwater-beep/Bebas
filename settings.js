@@ -13,8 +13,8 @@ global.kirsan = false
 //BATAS//
 //=========GLOBAL MY=========//
 global.my = {
-	yt: "https://youtube.com/@RixqzOffc", //ubah saja terserah 
-    ch: "https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D", //ubah saja sama link channel lu
+	yt: "https://youtube.com/@sword2god?si=KK4IfZ_92W8j9pxq", //ubah saja terserah 
+    ch: "https://whatsapp.com/channel/0029VbBCACX4NVilOI7RmZ2J", //ubah saja sama link channel lu
     idch: "120363186130999681@newsletter" //ubah idch lu
 }
 ////////////////////////////////////////////////////////////////////////////////
@@ -45,34 +45,34 @@ global.replyviex = 'https://files.catbox.moe/9lkwtv.jpg'
 
 //////////////////////SETTING TAMPILAN MENU KALIAN//////////////////
 global.ig = '@ariq.ardn19' //NAMA IG LU
-global.yt = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ' //NAMA YT LU, KALO GADA GAUSAH DIISI
+global.yt = 'ʀᴇʏʏ ɪɴғɪɴɪᴛʏ' //NAMA YT LU, KALO GADA GAUSAH DIISI
 global.namaBot = "Furina | MD✨" // Ganti aja
 global.namabot = "Furina | MD✨" // Ganti serah lu
-global.footer = "ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ ✨" //Ganti aja serah
-global.ttowner = 'ariq.ardn' //NAMA TIKTOK LU
-global.namafile = 'Rɪxǫᴢ 🛍' // Ganti aja
-global.ownername = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
-global.owner = ['6285813708397'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285813708397' // NOMOR LU YANG MAU JDI OWNER
+global.footer = "ʀᴇʏʏ ɪɴғɪɴɪᴛʏ ✨" //Ganti aja serah
+global.ttowner = 'ʀᴇʏʏʏᴢᴢᴢ' //NAMA TIKTOK LU
+global.namafile = 'ғᴜʀɪɴᴀ ᴍᴅ' // Ganti aja
+global.ownername = 'ʀᴇʏʏ ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
+global.owner = ['087760563021'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '087760563021' // NOMOR LU YANG MAU JDI OWNER
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
-global.nameCreator = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ'
+global.nameCreator = 'ʀᴇʏʏ ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ'
 /////////////////////////////////////////////////////////////////////////////////
 
 
 
 //=================SETTING PAYMENT KALIAN===================\\
-global.nodana = '085813708397' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '085813708397' // KOSONG KAN JIKA TIDAK ADA 
-global.noovo = '085813708397' // KOSONG KAN JIKA TIDAK ADA
+global.nodana = 'ɴᴏ ᴠᴀᴜʟᴇ' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = 'ɴᴏ ᴠᴀᴜʟᴇ' // KOSONG KAN JIKA TIDAK ADA 
+global.noovo = 'ɴᴏ ᴠᴀᴜʟᴇ' // KOSONG KAN JIKA TIDAK ADA
 /////////////////////////////////////////////////////////////////////////////////
 
 
 
 //==============SETTING PAYMENT NAME=======================\\
-global.andana = '085813708397' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = '085813708397' // KOSONG KAN JIKA TIDAK ADA
-global.anovo = '085813708397' // KOSONG KAN JIKA TIDAK ADA
+global.andana = 'ɴᴏ ᴠᴀᴜʟᴇ' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = 'ɴᴏ ᴠᴀᴜʟᴇ' // KOSONG KAN JIKA TIDAK ADA
+global.anovo = 'ɴᴏ ᴠᴀᴜʟᴇ ''// KOSONG KAN JIKA TIDAK ADA
 //////////////////////////////////////////////////////////////////////////////////
 
 //BATAS//
@@ -98,27 +98,27 @@ global.emoji = [
 ]
 //==================SETTING BOT===========================\\
 global.botname = "Furina | MD ✨" //NAMA BOT LU
-global.ownernumber = '6285813708397' //NOMOR LU
-global.botnumber = '6285813708397' //NOMOR LU
-global.ownername = 'ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
+global.ownernumber = '087760563021' //NOMOR LU
+global.botnumber = '6285786423802' //NOMOR LU
+global.ownername = 'ʀᴇʏʏ ɪɴғɪɴɪᴛʏ | ᴅᴇᴠ' //NAMA LU
 global.idSaluran = "120363186130999681@newsletter"//ID SALURAN LU
 global.idch = "120363186130999681@newsletter"//ID SALURAN LU
 global.chat = '120363186130999681@newsletter' // Ganti idch buat command .chat
-global.namaSaluran = "Furina Assistant • Bot WhatsApp" //Ganti sama nama saluran lu
-global.linkSaluran = "https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D"
-global.ownerNumber = ["6285813708397@s.whatsapp.net"] //NOMORLU
+global.namaSaluran = "ғᴜʀɪɴᴀ ᴍᴅ x ʀᴇʏʏ ɪɴғɪɴɪᴛᴇ" //Ganti sama nama saluran lu
+global.linkSaluran = "https://whatsapp.com/channel/0029VbBCACX4NVilOI7RmZ2J"
+global.ownerNumber = ["6287760563021@s.whatsapp.net"] //NOMORLU
 global.ownerweb = ""//WEB LU//OPSIONAL
 global.websitex = ""//OPSIONAL
 global.wagc = "https://chat.whatsapp.com/KBeOpfm2Wyw62ImBHypEUx"
 global.wach = 'https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D'
-global.saluran = "https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D"
+global.saluran = "https://whatsapp.com/channel/0029VbBCACX4NVilOI7RmZ2J"
 global.themeemoji = '🪀'
-global.wm = "Furina X ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
+global.wm = "Furina X ʀᴇʏʏ ɪɴғɪɴɪᴛʏ"
 global.botscript = 'MAAS MAF INI BELI YAA :D'
 global.version = "3.1.0"
-global.packname = "🛒 ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
-global.author = "\n\nCreate by Furina MD\n Dev : ғᴀʟʟᴢx ɪɴғɪɴɪᴛʏ"
-global.creator = "6285813708397@s.whatsapp.net"
+global.packname = "🛒 ʀᴇʏʏ ɪɴғɪɴɪᴛʏ"
+global.author = "\n\nCreate by Furina MD\n Dev : ʀᴇʏʏ ɪɴғɪɴɪᴛʏ"
+global.creator = "6287760563021@s.whatsapp.net"
 /////////////////////////////////////////////////////////////////////////////////
 
 
